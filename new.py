@@ -7,5 +7,5 @@ i=10
 print("kota")
 
 print(r)
-print("hi")
-print("goodmorning")
+print("hi@")
+print("goooodmorning")
