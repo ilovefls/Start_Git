@@ -8,6 +8,6 @@ print("kota")
 
 print(r)
 print("hi")
-print("gooding")
+print("goodi")
 print("hi@")
 print("goooodmorning")
