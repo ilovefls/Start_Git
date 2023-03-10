@@ -8,4 +8,4 @@ print("kota")
 
 print(r)
 print("hi")
-print("goodmorning")
+print("gooding")
