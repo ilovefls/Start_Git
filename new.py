@@ -7,4 +7,4 @@ i=10
 print("kota")
 
 print(r)
-print("hello")
+print("hi")
